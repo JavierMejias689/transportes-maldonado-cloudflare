@@ -1,0 +1,9 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="60" cy="60" r="58" stroke="#c9a84c" stroke-width="2.5"/>
+  <circle cx="60" cy="60" r="52" fill="#1a1a2e"/>
+  <path d="M30 78 Q45 50 60 38 Q75 26 90 42" stroke="#c9a84c" stroke-width="3" stroke-linecap="round" fill="none" opacity="0.3"/>
+  <path d="M28 85 Q48 55 60 42 Q72 29 92 48" stroke="#c9a84c" stroke-width="1.5" stroke-linecap="round" fill="none" opacity="0.15"/>
+  <text x="35" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="bold" fill="white" letter-spacing="-2">T</text>
+  <text x="60" y="78" font-family="Georgia, 'Times New Roman', serif" font-size="48" font-weight="bold" fill="#c9a84c" letter-spacing="-2">M</text>
+  <circle cx="60" cy="95" r="2" fill="#c9a84c" opacity="0.6"/>
+</svg>
